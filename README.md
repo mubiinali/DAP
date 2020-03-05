@@ -1,1 +1,1 @@
-# Rating comparison between Yelp and Zomato 
+# Restaurant Rating comparison between Yelp and Zomato 
